@@ -12,10 +12,10 @@
   "dependencies": {
     "@astrojs/check": "latest",
     "@astrojs/mdx": "latest",
-    "@prosefly/astro-components": "^0.5.0",
+    "@prosefly/astro-components": "^0.5.1",
     "@prosefly/astro-theme-dahlia": "^0.1.0",
     "@tailwindcss/vite": "latest",
-    "astro": "^7.2.4",
+    "astro": "^7.2.6",
     "tailwindcss": "latest",
     "typescript": "^6.0.3"
   }
